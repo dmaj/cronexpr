@@ -61,6 +61,7 @@ Predefined cron expressions
     @weekly     Run once a week at midnight in the morning of Sunday                    0 0 0 * * 0 *
     @daily      Run once a day at midnight                                              0 0 0 * * * *
     @hourly     Run once an hour at the beginning of the hour                           0 0 * * * * *
+    @start      Run once on startup
     @reboot     Not supported
 
 Other details
